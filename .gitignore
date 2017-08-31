@@ -1,0 +1,6 @@
+obj-intel64
+.*sw?
+*.out
+*log
+*log.bak
+tags
